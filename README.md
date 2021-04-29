@@ -1,4 +1,4 @@
-# chatroom
+# Chatroom
 An online chatroom written in Java using computer network knowledge
 
 # Computer Sceience Program Learning Goal Achieved
